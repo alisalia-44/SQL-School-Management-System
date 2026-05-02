@@ -1,19 +1,19 @@
 # SQL-School-Management-System
 Système complet de gestion académique sous SQL Server : Architecture relationnelle, simulation de +10 000 enregistrements, analyses de performances via des vues complexes et gestion de la sécurité (RBAC).
-🏫 Système de Gestion de Collège & Analyse de Données (SQL Server)
-📌 Présentation
+##🏫 Système de Gestion de Collège & Analyse de Données (SQL Server)
+##📌 Présentation
 Ce projet consiste en la conception et l'implémentation d'une base de données relationnelle complète pour un établissement scolaire. L'objectif est de passer de la donnée brute (notes d'élèves) à de la donnée décisionnelle (moyennes générales et verdicts automatisés).
 
 C'est un projet de bout en bout démontrant des compétences en Architecture de données, SQL Avancé et Gouvernance.
 
-🛠️ Stack Technique
+##🛠️ Stack Technique
 Moteur : SQL Server (T-SQL)
 
 Outil : SQL Server Management Studio (SSMS)
 
 Concepts utilisés : Contraintes d'intégrité, Boucles WHILE, Algorithmes de simulation, Vues complexes imbriquées, Sécurité RBAC.
 
-🚀 Points Forts du Projet
+##🚀 Points Forts du Projet
 1. Architecture Relationnelle Robuste
 Modélisation de 4 tables clés : Classes, Etudiants, Matieres, Notes.
 
